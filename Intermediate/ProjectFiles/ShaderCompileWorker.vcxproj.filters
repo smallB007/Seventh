@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Target.cs" />
+		<Filter Include="Config">
+			<UniqueIdentifier>{F9E449C1-6249-42DA-A3BA-8AC3FCB96D13}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Programs\ShaderCompileWorker\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{0D9E0CF4-0BB2-4C87-8D1D-3C652DFC7914}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Private\ShaderCompileWorker.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<Filter Include="Resources">
+			<UniqueIdentifier>{CF7138B0-9097-48F2-94A2-E6AC8FF9E959}</UniqueIdentifier>
+		</Filter>
+		<Manifest Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Resources\Debug-Win32.manifest">
+			<Filter>Resources</Filter>
+		</Manifest >
+		<Manifest Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Resources\Debug-Win64.manifest">
+			<Filter>Resources</Filter>
+		</Manifest >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Resources\resource.h">
+			<Filter>Resources</Filter>
+		</ClInclude >
+		<ResourceCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Resources\Resource.rc">
+			<Filter>Resources</Filter>
+		</ResourceCompile >
+		<Manifest Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Resources\Win32.manifest">
+			<Filter>Resources</Filter>
+		</Manifest >
+		<Manifest Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Resources\Win64.manifest">
+			<Filter>Resources</Filter>
+		</Manifest >
+	</ItemGroup>
+</Project>

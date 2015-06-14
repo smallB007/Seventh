@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Seventh.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{C40AC0A7-6207-4060-8D80-12A2DFA1DCB9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Seventh.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SeventhEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{EE413AD2-3ABB-47FA-A0CA-923107E6E8F0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Seventh">
+			<UniqueIdentifier>{EB139876-0D26-4C37-A69A-8BB9924AE86C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Seventh\Seventh.Build.cs">
+			<Filter>Source\Seventh</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Seventh\Seventh.cpp">
+			<Filter>Source\Seventh</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Seventh\Seventh.h">
+			<Filter>Source\Seventh</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Seventh\SeventhCharacter.cpp">
+			<Filter>Source\Seventh</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Seventh\SeventhCharacter.h">
+			<Filter>Source\Seventh</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Seventh\SeventhGameMode.cpp">
+			<Filter>Source\Seventh</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Seventh\SeventhGameMode.h">
+			<Filter>Source\Seventh</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Seventh\SeventhHUD.cpp">
+			<Filter>Source\Seventh</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Seventh\SeventhHUD.h">
+			<Filter>Source\Seventh</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Seventh\SeventhProjectile.cpp">
+			<Filter>Source\Seventh</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Seventh\SeventhProjectile.h">
+			<Filter>Source\Seventh</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

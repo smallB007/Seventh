@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F2E92D91-4986-B3C2-BA17-2F95FF1BE8EC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Seventh",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

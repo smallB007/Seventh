@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Target.cs" />
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{085A5E3E-E76B-4367-9736-777733A2687E}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcess.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcess.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessApp.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessApp.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<Filter Include="Private\Linux">
+			<UniqueIdentifier>{2D4EBF50-B0C0-4F58-AF1E-87F2FDC74D7E}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Private\Linux\UnrealCEFSubProcessLinux.cpp">
+			<Filter>Private\Linux</Filter>
+		</ClCompile >
+		<Filter Include="Private\Mac">
+			<UniqueIdentifier>{5E831715-BB43-4D27-B45A-05A91CBD8C37}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Private\Mac\UnrealCEFSubProcessMac.cpp">
+			<Filter>Private\Mac</Filter>
+		</ClCompile >
+		<Filter Include="Private\Windows">
+			<UniqueIdentifier>{C2BC0CEB-DE44-4AA5-8746-47BF8EF5A442}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Private\Windows\UnrealCEFSubProcessWindows.cpp">
+			<Filter>Private\Windows</Filter>
+		</ClCompile >
+		<Filter Include="Resources">
+			<UniqueIdentifier>{8A4629F8-CBEA-4056-BD6D-B9F012D96CBB}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Resources\Mac">
+			<UniqueIdentifier>{5E86751A-AEA4-4712-84E5-A7F4396E7807}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Mac\Info.plist">
+			<Filter>Resources\Mac</Filter>
+		</None >
+	</ItemGroup>
+</Project>

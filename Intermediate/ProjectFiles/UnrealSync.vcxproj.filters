@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\UnrealSync.Target.cs" />
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\UnrealSync.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{590A343B-5AD0-47FA-978A-48E15B3FA609}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\GUI.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\GUI.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\P4DataCache.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\P4DataCache.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\P4Env.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\P4Env.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\ProcessHelper.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\ProcessHelper.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\UnrealSync.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\UnrealSync.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<Filter Include="Private\Windows">
+			<UniqueIdentifier>{FDA43BF7-589E-4C2A-AEA8-1F9A7AB2B2B4}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\Windows\UnrealSyncMainWindows.cpp">
+			<Filter>Private\Windows</Filter>
+		</ClCompile >
+		<Filter Include="Private\Windows\Resources">
+			<UniqueIdentifier>{91EE6172-0887-4D79-8A5B-ADE41ADE4DA2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\Windows\Resources\UnrealSync.ico">
+			<Filter>Private\Windows\Resources</Filter>
+		</None >
+		<ResourceCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\UnrealSync\Private\Windows\Resources\UnrealSync.rc">
+			<Filter>Private\Windows\Resources</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>

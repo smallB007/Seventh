@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
+		<None Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{4FE61392-257A-442D-96E1-FFBE54524C8C}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\UE4\4.8\UnrealEngine-release\UnrealEngine-release\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchToolMain.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+	</ItemGroup>
+</Project>
