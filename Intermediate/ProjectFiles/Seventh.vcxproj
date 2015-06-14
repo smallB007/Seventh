@@ -268,8 +268,10 @@
     <None Include="..\..\Config\DefaultGame.ini" />
     <None Include="..\..\Config\DefaultInput.ini" />
     <None Include="..\..\Source\Seventh\Seventh.Build.cs" />
+    <ClCompile Include="..\..\Source\Seventh\MyCharacter.cpp" />
     <ClCompile Include="..\..\Source\Seventh\MyClass.cpp" />
     <ClCompile Include="..\..\Source\Seventh\Seventh.cpp" />
+    <ClInclude Include="..\..\Source\Seventh\MyCharacter.h" />
     <ClInclude Include="..\..\Source\Seventh\MyClass.h" />
     <ClInclude Include="..\..\Source\Seventh\Seventh.h" />
     <ClCompile Include="..\..\Source\Seventh\SeventhCharacter.cpp" />
