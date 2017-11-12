@@ -1,39 +1,7 @@
- Volume in drive C has no label.
- Volume Serial Number is B829-CD4C
-
- Directory of C:\Users\Artie\Documents\GitHub\Seventh
-
-16/06/2017  20:14    <DIR>          .
-16/06/2017  20:14    <DIR>          ..
-05/03/2017  17:25             3,011 .gitignore
-16/06/2017  20:10             1,367 a
-16/06/2017  19:55             1,448 a.txt
-19/03/2017  14:04             1,328 ab
-16/06/2017  20:13             1,448 ad
-23/03/2017  20:11             1,328 ala
-18/03/2017  09:34               915 ala - Copy.txt
-18/03/2017  09:34               915 ala.txt
-19/03/2017  10:50             1,052 ala100
-19/03/2017  11:58             1,093 ald
-16/06/2017  20:15                 0 b
-16/06/2017  20:10             1,328 c
-23/03/2017  20:31    <DIR>          Config
-05/03/2017  17:25    <DIR>          Content
-16/06/2017  20:10             1,249 d
-05/03/2017  17:25    <DIR>          Intermediate
-13/06/2017  20:19         7,266,828 KMSpico_for_office2016 - Copy (2).zip
-13/06/2017  20:19         7,266,828 KMSpico_for_office2016 - Copy (3).zip
-13/06/2017  20:19         7,266,828 KMSpico_for_office2016 - Copy.zip
-13/06/2017  20:19         7,266,828 KMSpico_for_office2016.zip
-19/03/2017  13:57             1,288 s
-11/03/2017  18:53                 0 seven - Copy (2).txt
-11/03/2017  18:53                 0 seven - Copy (3).txt
-11/03/2017  18:53                 0 seven - Copy (4).txt
-11/03/2017  18:53                 0 seven - Copy - Copy.txt
-11/03/2017  18:53                 0 seven - Copy.txt
-11/03/2017  18:53                 0 seven.txt
-05/03/2017  17:25               286 Seventh.uproject
-05/03/2017  17:25    <DIR>          Source
-25/03/2017  13:46             1,367 v
-              26 File(s)     29,086,735 bytes
-               6 Dir(s)  940,489,166,848 bytes free
+a		  ala100   Intermediate			seven.txt
+a.txt		  ald	   s				Seventh.uproject
+ab		  b	   seven\ -\ Copy\ -\ Copy.txt	Source
+ad		  c	   seven\ -\ Copy\ (2).txt	v
+ala		  Config   seven\ -\ Copy\ (3).txt
+ala\ -\ Copy.txt  Content  seven\ -\ Copy\ (4).txt
+ala.txt		  d	   seven\ -\ Copy.txt
