@@ -1,7 +1,8 @@
-a		  ala100   f				seven\ -\ Copy\ (3).txt
-a.txt		  ald	   Intermediate			seven\ -\ Copy\ (4).txt
-ab		  b	   s				seven\ -\ Copy.txt
-ad		  c	   sd				seven.txt
-ala		  Config   se				Seventh.uproject
-ala\ -\ Copy.txt  Content  seven\ -\ Copy\ -\ Copy.txt	Source
-ala.txt		  d	   seven\ -\ Copy\ (2).txt	v
+a		  ald	   Intermediate			seven\ -\ Copy.txt
+a.txt		  b	   s				seven.txt
+ab		  c	   sd				Seventh.uproject
+ad		  Config   se				Source
+ala		  Content  seven\ -\ Copy\ -\ Copy.txt	v
+ala\ -\ Copy.txt  d	   seven\ -\ Copy\ (2).txt
+ala.txt		  f	   seven\ -\ Copy\ (3).txt
+ala100		  ff	   seven\ -\ Copy\ (4).txt
